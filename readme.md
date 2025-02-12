@@ -58,3 +58,8 @@ docker run -it --rm -p xxxx:80 “nom de l’image”
 ```
 
 ![alt text](images/dockerrunnn.png)
+
+Dans l’explorateur internet trouver le moyen d’accéder au
+container
+
+![alt text](images/nginx.png)

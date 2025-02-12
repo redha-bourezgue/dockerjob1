@@ -56,3 +56,5 @@ docker info
 ```sh
 docker run -it --rm -p xxxx:80 “nom de l’image”
 ```
+
+![alt text](images/dockerrunnn.png)

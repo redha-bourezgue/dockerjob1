@@ -96,6 +96,7 @@ docker info
 ```sh
  docker run
  ```
+ ![alt text](<images/docker runn.png>)
 
 
 

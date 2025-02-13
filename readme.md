@@ -76,12 +76,12 @@ docker --version
 ```sh
 docker info
 ```     
-
+![alt text](<images/docker infoo.png>)
 
 ```sh
  docker ps
  ```
- 
+![alt text](images/dockerpss.png) 
 
 
 

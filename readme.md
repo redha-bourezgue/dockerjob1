@@ -104,7 +104,7 @@ docker info
  ```sh
  docker stop
 ```
-
+![alt text](<images/docker stopp.png>)
 
 
 
@@ -114,4 +114,4 @@ docker info
  docker images
  ```
 
- 
+![alt text](images/dockerimagess.png) 

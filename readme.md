@@ -35,7 +35,7 @@ docker info
  ```sh
  docker stop
 ```
-
+![alt text](images/dockerstop.png)
 
 
 
@@ -63,3 +63,54 @@ Dans l’explorateur internet trouver le moyen d’accéder au
 container
 
 ![alt text](images/nginx.png)
+
+
+
+
+```sh
+docker --version
+```
+![alt text](images/dockerversionn.png)
+
+
+```sh
+docker info
+```     
+
+
+```sh
+ docker ps
+ ```
+ 
+
+
+
+
+ ```sh
+ docker images
+ ```
+
+
+
+ 
+```sh
+ docker run
+ ```
+
+
+
+
+ ```sh
+ docker stop
+```
+
+
+
+
+
+
+```sh
+ docker images
+ ```
+
+ 

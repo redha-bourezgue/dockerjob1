@@ -89,7 +89,7 @@ docker info
  ```sh
  docker images
  ```
-
+![alt text](images/dockerimagee.png)
 
 
  
